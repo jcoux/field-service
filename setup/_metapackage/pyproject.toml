@@ -1,9 +1,10 @@
 [project]
 name = "odoo-addons-oca-field-service"
-version = "18.0.20241106.0"
+version = "18.0.20241106.1"
 dependencies = [
     "odoo-addon-base_territory==18.0.*",
     "odoo-addon-fieldservice==18.0.*",
+    "odoo-addon-fieldservice_account==18.0.*",
     "odoo-addon-fieldservice_project==18.0.*",
 ]
 classifiers=[
