@@ -27,6 +27,7 @@ addon | version | maintainers | summary
 [fieldservice_calendar](fieldservice_calendar/) | 18.0.1.0.0 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Add calendar to FSM Orders
 [fieldservice_crm](fieldservice_crm/) | 18.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Create Field Service orders from the CRM
 [fieldservice_project](fieldservice_project/) | 18.0.1.0.0 |  | Create field service orders from a project or project task
+[fieldservice_vehicle](fieldservice_vehicle/) | 18.0.1.0.0 | [![wolfhall](https://github.com/wolfhall.png?size=30px)](https://github.com/wolfhall) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Manage Field Service vehicles and assign drivers
 
 [//]: # (end addons)
 
