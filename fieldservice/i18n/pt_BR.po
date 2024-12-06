@@ -42,6 +42,13 @@ msgid "# of Owned Locations"
 msgstr "# de Locais Próprios"
 
 #. module: fieldservice
+#. odoo-python
+#: code:addons/fieldservice/models/fsm_order.py:0
+#, python-format
+msgid "%(date)s is a holiday: %(holidays)s"
+msgstr ""
+
+#. module: fieldservice
 #: model:ir.actions.report,print_report_name:fieldservice.action_report_fsm_order
 msgid "'Service Order - %s' % (object.name)"
 msgstr "'Ordem de Serviço - %s' % (object.name)"
